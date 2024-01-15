@@ -4,8 +4,6 @@
 
 Welcome to the LinkedList Snippets! This repository serves as a hub for exploring, learning, and sharing code related to linked lists.
 
-## Contents
-
 - **Algorithms:** Explore various linked list algorithms.
 - **Challenges:** Tackle common challenges and discover solutions.
 - **Implementations:** Find examples in programming languages.
