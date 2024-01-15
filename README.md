@@ -8,5 +8,6 @@ Welcome to the LinkedList Snippets! This repository serves as a hub for explorin
 - **Challenges:** Tackle common challenges and discover solutions.
 - **Implementations:** Find examples in programming languages.
 
-Feel free to explore, learn, and contribute your own linked list-related code! Whether you're a beginner looking for examples or an experienced developer showcasing your expertise, 
-this repository is open to everyone.
+## Getting Started
+
+To get started, simply navigate to the relevant folders and explore the code. Feel free to learn, explore and contribute your own linked list-related code! Whether you're a beginner looking for examples or an experienced developer showcasing your expertise, this repository is open to everyone.
