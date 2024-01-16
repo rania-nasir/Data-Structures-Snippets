@@ -12,15 +12,14 @@ Welcome to the LinkedList Snippets! This repository serves as a hub for explorin
 
 ### Basic Operations
 
-1. Insertion Operations **(*At Start*, *At End*, *In the Middle*)**: [Code: Insertion Operations](Basic%20Operations/InsertionOperations.cpp)
-
-2. Reverse Linked List: [Code: Reverse Linked List](Basic%20Operations/ReverseLinkedList.cpp)
+1. Insertion Operations **(*At Start*, *At End*, *In the Middle*)**: [Code](Basic%20Operations/InsertionOperations.cpp)
+2. Reverse Linked List: [Code](Basic%20Operations/ReverseLinkedList.cpp)
 
 ### LeetCode Problems
 
-1. Reverse Linked List:
-- [Code: Reverse Linked List (Iterative)](reverse-linkedlist-using-iterative.cpp)
-- [Code: Reverse Linked List (Recursive)](Leetcode%20Problems/reverse-linkedlist-using-recursion.cpp)
+1. Reverse Linked List: [Code: (Iterative)](reverse-linkedlist-using-iterative.cpp) [Code: (Recursive)](Leetcode%20Problems/reverse-linkedlist-using-recursion.cpp)
+2. Merge two Sorted Lists:  [Code](Leetcode%20Problems/Merge-Two-Sorted-Lists.cpp)
+3. Reorder Lists:  [Code](Leetcode%20Problems/ReorderList.cpp)
 
 
 
