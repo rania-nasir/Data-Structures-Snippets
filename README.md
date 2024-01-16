@@ -20,6 +20,7 @@ Welcome to the LinkedList Snippets! This repository serves as a hub for explorin
 1. Reverse Linked List: [Code: (Iterative)](reverse-linkedlist-using-iterative.cpp) [Code: (Recursive)](Leetcode%20Problems/reverse-linkedlist-using-recursion.cpp)
 2. Merge two Sorted Lists:  [Code](Leetcode%20Problems/Merge-Two-Sorted-Lists.cpp)
 3. Reorder Lists:  [Code](Leetcode%20Problems/ReorderList.cpp)
+4. Remove nth Node from End of List:  [Code](Leetcode%20Problems/Remove-nth-Node-from-End-of-List.cpp)
 
 
 
