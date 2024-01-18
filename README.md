@@ -22,6 +22,7 @@ Welcome to the LinkedList Snippets! This repository serves as a hub for explorin
 3. Reorder Lists:  [Code](Leetcode%20Problems/ReorderList.cpp)
 4. Remove nth Node from End of List:  [Code](Leetcode%20Problems/Remove-nth-Node-from-End-of-List.cpp)
 5. Add Two Numbers As LinkedList:  [Code](Leetcode%20Problems/Add-Two-Numbers-As-LinkedList.cpp)
+6. Find the Duplicate Number:  [Code](Leetcode%20Problems/Find-Duplicate-Number.cpp)
 
 
 
