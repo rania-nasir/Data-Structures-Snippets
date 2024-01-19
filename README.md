@@ -1,8 +1,8 @@
-# LinkedList Snippets
+# Data Structures Snippets
 
 ## Overview
 
-Welcome to the LinkedList Snippets! This repository serves as a hub for exploring, learning, and sharing code related to linked lists. To get started, simply navigate to the relevant folders and explore the code.
+Welcome to the Data Structure Snippets! This repository serves as a hub for exploring, learning, and sharing code related to data structures. To get started, simply navigate to the relevant folders and explore the code.
 
 ## Content
 
